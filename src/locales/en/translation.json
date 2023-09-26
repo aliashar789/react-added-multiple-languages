@@ -1,0 +1,33 @@
+{
+    "Home": "Home",
+    "About": "About Us",
+    "Contact": "Contact Us",
+    "Hero": {
+        "title": "Album Photos",
+        "description": "Something short and leading about the collection below—its contents, the creator, etc. Make it short and sweet, but not too short so folks don’t simply skip over it entirely."
+    },
+    "Cards": {
+        "card1": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+        "card2": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+        "card3": "This is a wider card with supporting text below as a natural lead-in."
+    },
+    "AboutSec1": {
+        "head1": "Build accessible components",
+        "head2": "Till this point, everything seems OK, but it’s not.",
+        "head3": "The solution is to use the localStorage object. This object stores the data in the browser’s with no expiration date. We are focusing on translating, so there is no styling in it. The final output looks like this"
+    },
+    "ContectSec1": {
+        "title": "Contact form",
+        "description": "Below is an example form built entirely with Bootstrap’s form controls. Each required form group has a validation state that can be triggered by attempting to submit the form without completing it."
+    },
+    "ContactForm": {
+        "fname": "First name",
+        "lname": "Last name",
+        "uname": "Username",
+        "email": "Email",
+        "emailplaceholder": "you@example.com",
+        "address": "Address",
+        "addressplaceholder": "Apartment or suite",
+        "button": "Submit"
+    }
+}

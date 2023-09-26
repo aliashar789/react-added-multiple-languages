@@ -1,0 +1,33 @@
+{
+    "Home": "Casa",
+    "Contact": "Contattaci",
+    "About": "Riguardo a noi",
+    "Hero": {
+        "title": "Foto dell'album",
+        "description": "Qualcosa di breve e importante sulla raccolta di seguito: i suoi contenuti, l'autore, ecc. Rendilo breve e dolce, ma non troppo breve in modo che le persone non lo saltino del tutto."
+    },
+    "Cards": {
+        "card1": "Si tratta di una scheda più ampia con testo di supporto riportato di seguito come naturale introduzione a contenuti aggiuntivi. Questo contenuto è un po' più lungo.",
+        "card2": "Si tratta di una scheda più ampia con testo di supporto riportato di seguito come naturale introduzione a contenuti aggiuntivi.",
+        "card3": "Si tratta di una scheda più ampia con testo di supporto riportato di seguito come naturale introduzione."   
+    },
+    "AboutSec1": {
+        "head1": "Costruisci componenti accessibili",
+        "head2": "Fino a questo punto sembra tutto ok, ma non lo è.",
+        "head3": "La soluzione è utilizzare l'oggetto localStorage. Questo oggetto memorizza i dati nel browser senza data di scadenza. Ci stiamo concentrando sulla traduzione, quindi non c'è stile. L'output finale è simile a questo"
+    },
+    "ContectSec1": {
+        "title": "Modulo di Contatto",
+        "description": "Di seguito è riportato un modulo di esempio creato interamente con i controlli del modulo di Bootstrap. Ogni gruppo di moduli obbligatorio dispone di uno stato di convalida che può essere attivato tentando di inviare il modulo senza completarlo."
+    },
+    "ContactForm": {
+        "fname": "Nome di battesimo",
+        "lname": "Cognome",
+        "uname": "Nome utente",
+        "email": "E-mail",
+        "emailplaceholder": "tu@esempio.com",
+        "address": "Indirizzo",
+        "addressplaceholder": "Appartamento o suite",
+        "button": "Invia"
+    }
+}

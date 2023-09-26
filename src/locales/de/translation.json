@@ -1,0 +1,33 @@
+{
+    "Home": "Daheim",
+    "About": "Über uns",
+    "Contact": "Kontaktiere uns",
+    "Hero": {
+        "title": "Albumfotos",
+        "description": "Etwas Kurzes und Leitendes über die folgende Sammlung – ihren Inhalt, den Ersteller usw. Machen Sie es kurz und bündig, aber nicht zu kurz, damit die Leute es nicht einfach ganz überspringen."
+    },
+    "Cards": {
+        "card1": "Dies ist eine breitere Karte mit unterstützendem Text unten als natürlicher Einstieg in zusätzliche Inhalte. Dieser Inhalt ist etwas länger.",
+        "card2": "Dies ist eine breitere Karte mit unterstützendem Text unten als natürlicher Einstieg in zusätzliche Inhalte.",
+        "card3": "Dies ist eine breitere Karte mit unterstützendem Text unten als natürlicher Einstieg."
+    },
+    "AboutSec1": {
+        "head1": "Erstellen Sie zugängliche Komponentens",
+        "head2": "Bis jetzt scheint alles in Ordnung zu sein, aber das ist nicht der Fall.",
+        "head3": "Die Lösung besteht darin, das localStorage-Objekt zu verwenden. Dieses Objekt speichert die Daten ohne Ablaufdatum im Browser. Wir konzentrieren uns auf die Übersetzung, daher gibt es kein Styling. Die endgültige Ausgabe sieht so aus"
+    },
+    "ContectSec1": {
+        "title": "Kontakt Formular",
+        "description": "Unten finden Sie ein Beispielformular, das vollständig mit den Formularsteuerelementen von Bootstrap erstellt wurde. Jede erforderliche Formulargruppe verfügt über einen Validierungsstatus, der durch den Versuch ausgelöst werden kann, das Formular abzusenden, ohne es auszufüllen."
+    },
+    "ContactForm": {
+        "fname": "Vorname",
+        "lname": "Nachname",
+        "uname": "Nutzername",
+        "email": "Email",
+        "emailplaceholder": "you@example.com",
+        "address": "Adresse",
+        "addressplaceholder": "Apartment oder Suite",
+        "button": "Einreichen"
+    }
+}
